@@ -1,4 +1,4 @@
-module github.com/lazakoa/go_test
+module github.com/lazakoa/go_test/v2
 
 go 1.23.0
 
